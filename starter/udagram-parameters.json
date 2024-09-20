@@ -1,6 +1,18 @@
 [
-	{
-		"ParameterKey": "Add you parameters here",
-		"ParameterValue": "Add you parameters here"
-	}
+    {
+        "ParameterKey": "EnvironmentName",
+        "ParameterValue": "Udacity_IaC"
+    },
+    {
+        "ParameterKey": "VolumeSize",
+        "ParameterValue": "10"
+    },
+    {
+	"ParameterKey": "S3BucketName",
+	"ParameterValue": "udacity-s3bucket"
+    },
+   {
+	"ParameterKey": "KeyPairName",
+	"ParameterValue": "udacity_key_pair"
+   }
 ]
