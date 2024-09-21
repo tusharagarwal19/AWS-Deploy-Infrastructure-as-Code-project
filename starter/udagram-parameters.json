@@ -1,7 +1,7 @@
 [
     {
         "ParameterKey": "EnvironmentName",
-        "ParameterValue": "Udacity_IaC"
+        "ParameterValue": "Udacity-IaC"
     },
     {
         "ParameterKey": "VolumeSize",
