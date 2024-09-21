@@ -4,10 +4,6 @@
        "ParameterValue": "Udacity-IaC"
     },
     {
-        "ParameterKey": "AppName",
-        "ParameterValue": "udagram"
-    },
-    {
         "ParameterKey": "VpcCIDR",
         "ParameterValue": "10.3.0.0/16"
     },
