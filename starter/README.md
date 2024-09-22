@@ -1,5 +1,9 @@
 # CD12352 - Infrastructure as Code Project Solution
 # Tushar Agarwal
+## Infrastructure diagram
+Below is the Infrastructure diagram that depicts the complete solution of the project created for Udagram webapp
+<img width="2002" alt="udacity_udagram_network" src="https://github.com/user-attachments/assets/c1c76cc2-5da6-4aed-9431-9993ec4194b9">
+
 
 ## Spin up instructions
 1. Open Visual Studio Code
